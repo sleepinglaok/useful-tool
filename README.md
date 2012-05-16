@@ -1,4 +1,2 @@
-page-bean
+tool-bean
 =========
-
-bean that help people for paging
